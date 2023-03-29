@@ -185,6 +185,10 @@ ConVar	sk_plr_dmg_mp5			( "sk_plr_dmg_mp5","0", FCVAR_REPLICATED );
 ConVar	sk_npc_dmg_mp5			( "sk_npc_dmg_mp5","0", FCVAR_REPLICATED);
 ConVar	sk_max_mp5				( "sk_max_mp5","0", FCVAR_REPLICATED);
 
+ConVar	sk_plr_dmg_dl44			( "sk_plr_dmg_dl44","0", FCVAR_REPLICATED );
+ConVar	sk_npc_dmg_dl44			( "sk_npc_dmg_dl44","0", FCVAR_REPLICATED);
+ConVar	sk_max_dl44				( "sk_max_dl44","0", FCVAR_REPLICATED);
+
 //-----------------------------------------------------------------------------
 // Purpose: 
 // Input  : iDmgType - 
