@@ -18,7 +18,7 @@ WeaponData
     "clip2_size"            "-1"
     "default_clip2"         "-1"
 
-    "primary_ammo"          "Pistol"
+    "primary_ammo"          "Energy"
     "secondary_ammo"        "None"
 
     "weight"                "3"

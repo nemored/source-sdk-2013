@@ -25,7 +25,7 @@ extern ConVar sk_plr_dmg_smg1_grenade;
 //-----------------------------------------------------------------------------
 // CWeaponDL44
 //-----------------------------------------------------------------------------
-class CWeaponDL44 : public CHLSelectFireMachineGun
+class CWeaponDL44 : public CHLEnergyWeapon
 {
 	DECLARE_DATADESC();
 
